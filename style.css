@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: 	#0F0824
+
+}
+
+.text{
+	color: #fff;
+	margin: 60px;
+}
+
+.container{
+	width: 1000px;
+	color: #fff;
+	margin: 0 auto;
+}
+
+.lotext{
+	position: relative;
+	bottom: 25px;
+	left: 20px;
+}
+
+.mes{
+	position: relative;
+	bottom: 25px;
+	left: 20px;
+}
+
+.tel{
+	position: relative;
+	bottom: 25px;
+	left: 20px;
+}
+
+.cor{
+	position: relative;
+	bottom: 26px;
+	left: 20px;
+}
+
+.cor2{
+	position:relative;
+	bottom: 26px;
+	left: 20px;
+}
+
+.
+.cor3{
+	position:relative;
+	bottom: 26px;
+	left: 20px;
+}
