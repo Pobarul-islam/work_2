@@ -9,6 +9,9 @@ body{
 
 }
 
+/*========= News letter =========== */
+
+
 .text{
 	color: #fff;
 	margin: 60px;
@@ -19,6 +22,8 @@ body{
 	color: #fff;
 	margin: 0 auto;
 }
+
+/*========= Contact =========== */
 
 .lotext{
 	position: relative;
@@ -38,6 +43,7 @@ body{
 	left: 20px;
 }
 
+/*========= courses =========== */
 .cor{
 	position: relative;
 	bottom: 26px;
@@ -57,10 +63,18 @@ body{
 	left: 20px;
 }
 
+
+	/*========= Footer =========== */
+
 .footer{
-	border: 1px solid #fff;
+	border-bottom: 1px solid #fff;
 	background-color: #180B3F;
-	color: #fff;
+	color: #bab3b3;
 	text-align: center;
-		colo
+		
+}
+
+.pic{
+	height: 50px;
+	width: 50px;
 }
